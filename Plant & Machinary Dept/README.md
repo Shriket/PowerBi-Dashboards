@@ -1,7 +1,7 @@
 # **Plant & Machinery Dashboard**
 
 ## 🚀 Overview  
-The **Plant & Machinery Dashboard** provides a **real-time operational overview** of **250+ Equipments ** across all the sites. Designed to **enhance efficiency, reduce costs, and optimize resource allocation**, it offers deep insights into machinery utilization, fuel consumption, and fleet performance.
+The **Plant & Machinery Dashboard** provides a **real-time operational overview** of **250+ Equipments** across all the projects. Designed to **enhance efficiency, reduce costs, and optimize resource allocation**, it offers deep insights into machinery utilization, fuel consumption, and fleet performance.
 
 ## 🎯 **Key Features & Insights**  
 
