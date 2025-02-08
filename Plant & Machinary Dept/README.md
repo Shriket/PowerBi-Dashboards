@@ -37,7 +37,7 @@ The **Plant & Machinery Dashboard** provides a **real-time operational overview*
 
 ## 💡 **Business Impact**  
 ✅ **Reduced machine downtime by 10%**, minimizing project delays.  
-✅ ** Reduced 5% fuel wastage**  by monitoring **250+ equipments**, fuel consumption and eliminating inefficiencies.  
+✅ **Reduced 5% fuel wastage**  by monitoring **250+ equipments**, fuel consumption and eliminating inefficiencies.  
 ✅ **Improved equipment utilization by 23%**, reducing unnecessary rentals.  
 ✅ **Cut unnecessary hiring costs** by **optimizing machine allocation across sites**.  
 ✅ **Reduced manual reporting time by 80%**, saving **20+ hours weekly**.  
@@ -47,8 +47,9 @@ The **Plant & Machinery Dashboard** provides a **real-time operational overview*
 🔹 **Power BI**  
 🔹 **Excel**  
 🔹 **Nway ERP Data Integration**  
-🔹 **Python**  
-🔹 **Jenkins**  
+🔹 **Python**
+🔹 **ETL(Extract Transform Load)**  
+🔹 **Jenkins**
 
 ## 📌 **Conclusion**  
 This dashboard has **transformed equipment tracking, fuel management, and resource allocation**. By enabling **real-time monitoring, fraud detection, and performance optimization**, decision-makers can now **proactively manage fleet operations, reduce costs, and enhance efficiency**.
