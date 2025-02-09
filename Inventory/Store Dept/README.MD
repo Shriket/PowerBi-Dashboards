@@ -3,6 +3,28 @@
 ## 🚀 Overview  
 This **Store & Inventory Management Dashboard** provides real-time insights into stock availability, material movements, and financial impact across multiple company sites. It eliminates manual reporting inefficiencies and empowers **data-driven decision-making** for procurement, transfers, and resource optimization. 
 
+---------------------------------------------------------------------------------------------------------
+
+## 🧗‍♂️ **Key Obstacles Faced** 
+
+*   **Negative Values in Data:** The dataset contained negative values in fields where they are not logically possible (e.g., sales quantities, inventory levels). This skewed calculations and reporting.
+    *   *Mitigation:* Investigated and Resolved it through cross-functional team meetings (DGM, department staff, ERP consultant).
+
+*   **Duplicate Item Names and Categories:** Duplicate entries for item names and categories were present, leading to ambiguity and inaccurate aggregation of data.
+    *   *Mitigation:* Implemented a data deduplication process to identify and merge duplicate entries. Standardized item naming and categorization conventions.
+
+*   **Unwanted Item Grouping:** Items were grouped in ways that did not reflect business logic or were inconsistent with established categories. This made it difficult to analyze data trends and identify top-stock level products.
+    *   *Mitigation:* Revised the item grouping logic based on business requirements and created new, more appropriate categories. Updated the dashboard to reflect the corrected item groupings.
+
+
+
+## 🗣️📝 Reporting & Communication 
+- Findings were simultaneously reported to key stakeholders throughout the resolution process.
+
+
+
+---------------------------------------------------------------------------------------------------------
+
 ## 🎯 **Key Features & Insights**  
 
 ### 1️⃣ **Comprehensive Inventory Tracking**  
@@ -33,6 +55,8 @@ This **Store & Inventory Management Dashboard** provides real-time insights into
 - **Ensure transparency**: Prevent unauthorized material movement with clear **approval workflows**.  
 - **Hold teams accountable** by tracking every stock transaction.  
 
+---------------------------------------------------------------------------------------------------------
+
 ## 💡 **Business Impact**  
 ✅ **Eliminated 85% of manual reporting efforts**, saving significant HR hours.  
 ✅ **Improved inventory tracking accuracy by 30%**, reducing errors and mismanagement.  
@@ -40,12 +64,16 @@ This **Store & Inventory Management Dashboard** provides real-time insights into
 ✅ **Enhanced procurement decisions**, ensuring informed approvals based on real-time stock data.  
 ✅ **Reduced financial losses** by detecting discrepancies in stock movements.  
 
+---------------------------------------------------------------------------------------------------------
+
 ## 🛠 **Tech Stack**  
 🔹 **Power BI**  
 🔹 **Excel**  
 🔹 **Nway ERP Data Integration**  
 🔹 **Python**  
 🔹 **Jenkins**  
+
+---------------------------------------------------------------------------------------------------------
 
 ## 📌 **Conclusion**  
 This **Store & Inventory Dashboard** enables efficient material tracking, stock utilization, and procurement planning. By **eliminating manual inefficiencies** and **providing real-time insights**, it ensures **cost savings, improved resource allocation, and data-driven decision-making** for optimal project execution. 🚀
