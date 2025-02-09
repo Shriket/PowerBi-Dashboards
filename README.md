@@ -10,7 +10,7 @@ To empower stakeholders with a comprehensive, bird’s-eye view of critical KPIs
 
 ## 🌍 Overview
 
-This repository contains a suite of interconnected data analytics dashboards designed to provide real-time insights and drive data-driven decision-making across various departments and operational areas within Nway Projects. These dashboards leverage data from the Nway ERP system and other sources to optimize processes, improve efficiency, reduce costs, and enhance overall performance.
+This repository contains a suite of interconnected data analytics dashboards designed to provide real-time insights and drive data-driven decision-making across various departments and operational areas. These dashboards leverage data from the ERP system and other sources to optimize processes, improve efficiency, reduce costs, and enhance overall performance.
 
 ----------------
 
