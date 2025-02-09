@@ -1,4 +1,4 @@
-# **HR Workforce Analytics Dashboard**
+# 🇭🇷 **HR Workforce Analytics Dashboard**
 
 ## 🚀 Overview  
 This **HR Workforce Analytics Dashboard** empowers key stakeholders with real-time insights into employee distribution, staffing levels, and salary planning across 145+ sites. Designed to optimize workforce planning and enhance operational efficiency, it eliminates manual tracking inefficiencies and enables **data-driven HR operations**.  
