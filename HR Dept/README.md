@@ -60,8 +60,8 @@ This **HR Workforce Analytics Dashboard** empowers key stakeholders with real-ti
 ✅ **Enhanced fund management** by analyzing salary cost fluctuations due to hiring and resignations.  
 
 ## 🛠 **Tech Stack**   
+🔹 **PowerBI** 
 🔹 **Excel** 
-🔹 **Power BI** 
 🔹 **Nway ERP Data Integration**
 🔹 **Python**
 🔹 **Jenkins**  
