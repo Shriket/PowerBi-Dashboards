@@ -3,6 +3,8 @@
 ## 🚀 Overview  
 The **DPR Dashboard** provides real-time insights into the progress of multiple construction projects across all sites. It enables stakeholders to **track daily work completion, monitor financial expenditures, and compare planned vs. actual progress**. This dashboard is instrumental in **preventing overbilling, ensuring accountability, and optimizing project timelines** for maximum efficiency.  
 
+---------------------------------------------------------------------------------------------------------
+
 ## 🧗‍♂️ **Key Obstacles Faced** 
 - **Inconsistent Entries:** DPRs not logged daily.
     *   *Mitigation:* Resolved through cross-functional team meetings (HODs, department staff, ERP consultant, data entry operators).
@@ -11,8 +13,12 @@ The **DPR Dashboard** provides real-time insights into the progress of multiple 
 - **Lack of Detail:** Entries lacked comprehensive information. 
     *   *Mitigation:* Resolved through team meetings. Revised DPR form with specific fields and clear guidelines.Implemented hod's daily approval for saving dpr into erp.
 
-### 🗣️ Reporting & Transparency:
+
+## 🗣️📝 Reporting & Transparency:
 - Findings were simultaneously reported to key stakeholders throughout the resolution process.
+
+
+---------------------------------------------------------------------------------------------------------
 
 ## 🎯 **Key Features & Insights**  
 
@@ -34,12 +40,15 @@ The **DPR Dashboard** provides real-time insights into the progress of multiple 
 - **Optimize cash flow & fund allocation:** Ensure timely and fair payments to subcontractors based on real-time DPR data, improving financial planning and vendor relationships.
 
 
+---------------------------------------------------------------------------------------------------------
+
 ## 💡 **Business Impact**  
 ✅ **Eliminated 82% of manual reporting efforts**, saving significant working hours . 
 ✅ **Enhanced productivity tracking**: A single day's inefficiency in the technical section can lead to a **₹3–3.5 lakh loss**—**real-time site monitoring prevents losses!**  
 ✅ **Reduced reporting discrepancies by 20%**, ensuring accurate project updates and reducing material wastage by **9%**.   
 ✅ **Accelerated project completion by 10%**, leading to a **1% annual revenue increase**.  
 
+---------------------------------------------------------------------------------------------------------
 ## 🛠 **Tech Stack**  
 🔹 **Power BI**  
 🔹 **Excel**  
@@ -47,5 +56,6 @@ The **DPR Dashboard** provides real-time insights into the progress of multiple 
 🔹 **Python**  
 🔹 **Jenkins**  
 
+---------------------------------------------------------------------------------------------------------
 ## 📌 **Conclusion**  
 The **DPR Dashboard** revolutionizes project tracking by providing **real-time insights, preventing financial leakages, and optimizing resource utilization**. By **eliminating manual inefficiencies and detecting discrepancies**, it ensures **cost savings, improved accountability, and data-driven decision-making for seamless project execution.** 🚀🏗️  
