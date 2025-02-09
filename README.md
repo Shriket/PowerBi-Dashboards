@@ -61,11 +61,15 @@ All dashboards within this suite are built upon a common tech stack to ensure ma
 ## 🚀Getting Started
 
 To explore the dashboards in detail, navigate to the individual dashboard folders within this repository. Each folder contains a `README.md` file with a comprehensive overview of the dashboard's **obstacles faced, solution, features, benefits, and implementation details.**
+
 -------------
+
 ## 🤝 Contributing
 
 We welcome contributions to improve and expand this data analytics dashboard suite. If you have suggestions for new dashboards, enhancements to existing ones, or bug fixes, please submit a pull request with a detailed description of your changes.
+
 -------------
+
 **📌 Note**  For data privacy reasons, all company names and sensitive information in these Power BI dashboard screenshots have been anonymized or encrypted. The company name is represented as "ABC Group" solely for example purposes.
 
 -------------
