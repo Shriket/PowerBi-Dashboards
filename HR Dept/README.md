@@ -50,7 +50,7 @@ This **HR Workforce Analytics Dashboard** empowers key stakeholders with real-ti
 - **Analyze hiring and resignations** to assess overall salary cost impact and improve fund management.  
 - **Get deep insights** into attrition and joined employees **site-wise, employee-wise, department-wise, and designation-wise** from 30 years of history till date.
 ---------------------------------------------------------------------------------------------------------
-## 💡 **Business Impact**  
+### 💡 **Business Impact**  
 ✅ **Reduced manual tracking by 60%**, eliminating inefficiencies.  
 ✅ **Resolved 12% under- or over-staffing issues**, ensuring optimal workforce allocation.  
 ✅ **Saved 15% in HR operational costs** by preventing unnecessary hires.  
