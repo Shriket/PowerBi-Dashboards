@@ -10,10 +10,10 @@ This **Store & Inventory Management Dashboard** provides real-time insights into
 - **Negative Values in Data:** The dataset contained negative values in fields where they are not logically possible (e.g., sales quantities, inventory levels). This skewed calculations and reporting.
     *   *Mitigation:* Investigated and Resolved it through cross-functional team meetings (DGM, department staff, ERP consultant).
 
-- **Duplicate Item Names and Categories:** Duplicate entries for item names and categories were present, leading to ambiguity and inaccurate aggregation of data.
+*   **Duplicate Item Names and Categories:** Duplicate entries for item names and categories were present, leading to ambiguity and inaccurate aggregation of data.
     *   *Mitigation:* Identification and merger of duplicate entries. Standardized item naming and categorization conventions have been performed.
 
-- **Unwanted Item Grouping:** Items were grouped in ways that did not reflect business logic or were inconsistent with established categories. This made it difficult to analyze data trends and identify top-stock level products.
+*   **Unwanted Item Grouping:** Items were grouped in ways that did not reflect business logic or were inconsistent with established categories. This made it difficult to analyze data trends and identify top-stock level products.
     *   *Mitigation:* Revised the item grouping logic based on business requirements and created new, more appropriate categories. Updated the dashboard to reflect the corrected item groupings.
 
 
