@@ -8,7 +8,8 @@ This repository contains a suite of interconnected data analytics dashboards des
 
 This suite comprises the following dashboards, each addressing specific needs and challenges within the organization:
 
-1.  **[Daily Progress Report (DPR) Dashboard]([./DPR_Dashboard/README.md](https://github.com/Shriket/PowerBi-Dashboards/tree/main/Civil%20Dept%20(Daily%20Progress%20Report))):** Provides real-time insights into construction project progress, enabling stakeholders to track daily work completion, monitor financial expenditures, and compare planned vs. actual progress across all sites. Key benefits include preventing overbilling, ensuring accountability, and optimizing project timelines.
+1.  **[Daily Progress Report (DPR) Dashboard](./Civil%20Dept%20(Daily%20Progress%20Report)/README.md)
+:** Provides real-time insights into construction project progress, enabling stakeholders to track daily work completion, monitor financial expenditures, and compare planned vs. actual progress across all sites. Key benefits include preventing overbilling, ensuring accountability, and optimizing project timelines.
 
 2.  **[HR Workforce Analytics Dashboard](./HR_Dashboard/README.md):** Empowers key stakeholders with real-time insights into employee distribution, staffing levels, and salary planning across all sites. It optimizes workforce planning, enhances operational efficiency, and enables data-driven HR operations.
 
