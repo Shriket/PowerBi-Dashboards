@@ -6,19 +6,15 @@ This **HR Workforce Analytics Dashboard** empowers key stakeholders with real-ti
 ---------------------------------------------------------------------------------------------------------
 
 ## 🧗‍♂️ **Key Obstacles Faced** 
-- **Inconsistent Entries:** DPRs not logged daily.
-    *   *Mitigation:* Resolved through cross-functional team meetings (HODs, department staff, ERP consultant, data entry operators).
 *   **Inconsistent Resignation Reasons:** Proper and consistent entries for resignation reasons were lacking. This hindered accurate analysis of employee turnover and identification of key drivers for attrition.
     *   *Mitigation:* Revised the resignation form to include a mandatory, structured field for resignation reasons with pre-defined options. Provided training to HR staff on the importance of accurate data capture.
 
+<!-- 
 
-<!-- *   **Data Privacy and Security Concerns:** HR data contains sensitive employee information, requiring careful consideration of privacy regulations.
+*   **Data Privacy and Security Concerns:** HR data contains sensitive employee information, requiring careful consideration of privacy regulations.
     *   *Mitigation:* Implemented role-based access control and anonymization techniques to protect sensitive data.
- ##" ha point tevhach lihshil jevha tule row level securuty feature yeun jail ,ki koanala kashyache rights dyache mahnun  "   -->
-
-
-
-
+ 
+⚠️⚠️⚠️⚠️ 🎟️🎟️🎟️🎟️🎟️🎟️🎟️🎟️🎟️🎟️🎟️🎟️🎟️🎟️🎟️ha point tevhach lihshil jevha tule row level securuty feature yeun jail ,ki koanala kashyache rights dyache mahnun  "   -->
 
 
 
