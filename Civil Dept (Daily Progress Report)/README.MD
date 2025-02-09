@@ -7,7 +7,7 @@ The **DPR Dashboard** provides real-time insights into the progress of multiple 
 
 ### 1️⃣ **Real-Time Work Monitoring**  
 - **Track daily progress**: Monitor DPR quantity, financial amounts, and task completion across all sites.
-- **3M Analysis (Man, Machine, Material)**: Compare DPR data with **PNM, HR, and Store dashboards** to identify productivity gaps.    
+- **3M's Analysis (Man, Machine, Material)**: Compare DPR data with **PNM, HR, and Store dashboards** to identify productivity gaps.    
 - **Site-wise & month-wise performance analysis** to ensure alignment with planned schedules.  
 - **Task-specific performance tracking** at both site and company-wide levels.  
 - **Layer-wise tracking** for key construction activities like **highway construction, tree cutting, drainage work, PQC, DLC, and more**.  
