@@ -23,7 +23,6 @@ This **HR Workforce Analytics Dashboard** empowers key stakeholders with real-ti
 
 
 ---------------------------------------------------------------------------------------------------------
-
 ## 🎯 **Key Features & Insights**  
 
 ### 1️⃣ **Real-Time Workforce Overview**  
@@ -49,7 +48,7 @@ This **HR Workforce Analytics Dashboard** empowers key stakeholders with real-ti
 - **Identify why employees are leaving** – company policies, unmet expectations, workplace issues, or terminations – to improve retention.  
 - **Track workforce changes** from last month to the past 30+ years, identifying departments or sites with the highest hiring or attrition.  
 - **Analyze hiring and resignations** to assess overall salary cost impact and improve fund management.  
-- **Get deep insights** into attrition and joined employees **site-wise, employee-wise, department-wise, and designation-wise** from 30 years of history till date.  
+- **Get deep insights** into attrition and joined employees **site-wise, employee-wise, department-wise, and designation-wise** from 30 years of history till date.
 ---------------------------------------------------------------------------------------------------------
 ## 💡 **Business Impact**  
 ✅ **Reduced manual tracking by 60%**, eliminating inefficiencies.  
@@ -58,7 +57,6 @@ This **HR Workforce Analytics Dashboard** empowers key stakeholders with real-ti
 ✅ **Minimized employee onboarding & offboarding turnaround time by 30%**, improving efficiency.  
 ✅ **Improved employee retention strategies** by understanding key reasons behind attrition.  
 ✅ **Enhanced fund management** by analyzing salary cost fluctuations due to hiring and resignations.  
-
 ---------------------------------------------------------------------------------------------------------
 ## 🛠 **Tech Stack**  
 🔹 **Power BI**  
@@ -66,8 +64,6 @@ This **HR Workforce Analytics Dashboard** empowers key stakeholders with real-ti
 🔹 **Nway ERP Data Integration**  
 🔹 **Python**  
 🔹 **Jenkins**  
-
 ---------------------------------------------------------------------------------------------------------
-
 ## 📌 **Conclusion**  
 This HR Dashboard has transformed workforce management. Enabling **data-driven decisions, cost savings, and efficient workforce allocation**. With precise hiring insights, real-time monitoring, and attrition analysis, HR operations are now **faster, smarter, and more effective**.
