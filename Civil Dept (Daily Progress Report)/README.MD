@@ -12,16 +12,16 @@ The **DPR Dashboard** provides real-time insights into the progress of multiple 
 - **Task-specific performance tracking** at both site and company-wide levels.  
 - **Layer-wise tracking** for key construction activities like **highway construction, tree cutting, drainage work, PQC, DLC, and more**.  
 
-### 2️⃣ **Overbilling & Fraud Detection**  
-- **Prevent overbilling & underbilling** by cross-verifying subcontractor claims with actual work completed.  
-- **Detect ghost entries**: Identify suspicious records such as **unrealistic overnight work completions**.  
+### 2️⃣ **Productivity Analysis**  
 - **Analyze productivity gaps**: If machines, materials, and employees are available, why is output low? Compare DPR with **PNM, HR, and Store Dashboards**.  
+- **Detect ghost entries**: Identify suspicious records such as **unrealistic overnight work completions**.  
 - **Hold teams accountable**: Identify reasons for project delays and ensure **timely interventions**.  
 
 ### 3️⃣ **Subcontractor Payment Validation**  
-- **Before approving payments**, verify whether work has been **physically completed** as per DPR records.  
-- **Ensure financial accuracy**: Prevent **overpayments or underpayments** by tracking daily reported quantities.  
-- **Optimize fund allocation**: Ensure **subcontractors are paid fairly and on time** based on real-time progress.  
+- **Verify work completion before payment approval:*, Payments are only processed after confirming the reported work aligns with on-ground progress.
+- **Prevent financial mismanagement:**: Avoid overpayments or underpayments by ensuring the quantity and quality of work meet contract specifications.
+- **Optimize cash flow & fund allocation:** Ensure timely and fair payments to subcontractors based on real-time DPR data, improving financial planning and vendor relationships.
+
 
 ## 💡 **Business Impact**  
 ✅ **Eliminated 82% of manual reporting efforts**, saving significant working hours . 
