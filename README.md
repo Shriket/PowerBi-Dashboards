@@ -38,7 +38,17 @@ This suite comprises the following dashboards, each addressing specific needs an
 *   **Improved Efficiency:** Automation and streamlined reporting processes reduce manual effort and free up valuable time for strategic initiatives.
 *   **Cost Reduction:** By optimizing resource allocation, preventing waste, and identifying cost-saving opportunities, the dashboards contribute to significant financial savings.
 *   **Enhanced Accountability:** Clear visibility into performance metrics and resource utilization promotes accountability and encourages continuous improvement.
-* 
+
+
+---------------------------------------------------------------------------------------------------------
+## 🛠 **Tech Stack**  
+🔹 **Power BI**  
+🔹 **Excel**  
+🔹 **Nway ERP Data Integration**  
+🔹 **Python**  
+🔹 **Jenkins**  
+
+---------------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------------
 
 ## 🛠 **Tech Stack**  
