@@ -7,7 +7,7 @@ This **Store & Inventory Management Dashboard** provides real-time insights into
 
 ## 🧗‍♂️ **Key Obstacles Faced** 
 
--**Negative Values in Data:** The dataset contained negative values in fields where they are not logically possible (e.g., sales quantities, inventory levels). This skewed calculations and reporting.
+- **Negative Values in Data:** The dataset contained negative values in fields where they are not logically possible (e.g., sales quantities, inventory levels). This skewed calculations and reporting.
     *   *Mitigation:* Investigated and Resolved it through cross-functional team meetings (DGM, department staff, ERP consultant).
 
 *   **Duplicate Item Names and Categories:** Duplicate entries for item names and categories were present, leading to ambiguity and inaccurate aggregation of data.
