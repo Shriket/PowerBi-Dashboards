@@ -51,16 +51,16 @@ All dashboards within this suite are built upon a common tech stack to ensure ma
 🔹 **Power BI**  
 🔹 **Excel**  
 🔹 **Nway ERP Data Integration**  
-🔹 **Python**
-🔹 **ETL(Extract Transform Load)** 
+🔹 **Python**  
 🔹 **Jenkins**  
+🔹 **ETL(Extract Transform Load)**  
 
 ---------------------------------------------------------------------------------------------------------
 
 
 ## 🚀Getting Started
 
-To explore the dashboards in detail, navigate to the individual dashboard folders within this repository. Each folder contains a `README.md` file with a comprehensive overview of the dashboard's obstacles faced, solution, features, benefits, and implementation details.
+To explore the dashboards in detail, navigate to the individual dashboard folders within this repository. Each folder contains a `README.md` file with a comprehensive overview of the dashboard's **obstacles faced, solution, features, benefits, and implementation details.**
 
 ## 🤝 Contributing
 
