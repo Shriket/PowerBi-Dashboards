@@ -41,30 +41,22 @@ This suite comprises the following dashboards, each addressing specific needs an
 
 
 ---------------------------------------------------------------------------------------------------------
+
 ## 🛠 **Tech Stack**  
-All dashboards within this suite are built upon a common tech stack to ensure maintainability, scalability, and ease of integration. The core technologies include:
+
+
+All dashboards within this suite are built upon a common tech stack to ensure maintainability, scalability, and ease of integration. The core technologies include
+
+
 🔹 **Power BI**  
 🔹 **Excel**  
 🔹 **Nway ERP Data Integration**  
 🔹 **Python**
-🔹 **ETL (Extract Transform Load)** 
+🔹 **ETL(Extract Transform Load)** 
 🔹 **Jenkins**  
 
 ---------------------------------------------------------------------------------------------------------
--------------------------------------------------------------------------------------------------------
 
-## 🛠 **Tech Stack**  
-
-All dashboards within this suite are built upon a common tech stack to ensure maintainability, scalability, and ease of integration. The core technologies include:
-
-🔹 **Power BI**  
-🔹 **Excel**  
-🔹 **Nway ERP Data Integration**  
-🔹 **Python** 
-🔹 **ETL (Extract Transform Load)**
-🔹 **Jenkins**  
-
----------------------------------------------------------------------------------------------------------
 
 ## 🚀Getting Started
 
