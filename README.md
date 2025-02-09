@@ -8,7 +8,7 @@ This repository contains a suite of interconnected data analytics dashboards des
 
 This suite comprises the following dashboards, each addressing specific needs and challenges within the organization:
 
-1.  **[Daily Progress Report (DPR) Dashboard](./DPR_Dashboard/README.md):** Provides real-time insights into construction project progress, enabling stakeholders to track daily work completion, monitor financial expenditures, and compare planned vs. actual progress across all sites. Key benefits include preventing overbilling, ensuring accountability, and optimizing project timelines.
+1.  **[Daily Progress Report (DPR) Dashboard]([./DPR_Dashboard/README.md](https://github.com/Shriket/PowerBi-Dashboards/tree/main/Civil%20Dept%20(Daily%20Progress%20Report))):** Provides real-time insights into construction project progress, enabling stakeholders to track daily work completion, monitor financial expenditures, and compare planned vs. actual progress across all sites. Key benefits include preventing overbilling, ensuring accountability, and optimizing project timelines.
 
 2.  **[HR Workforce Analytics Dashboard](./HR_Dashboard/README.md):** Empowers key stakeholders with real-time insights into employee distribution, staffing levels, and salary planning across all sites. It optimizes workforce planning, enhances operational efficiency, and enables data-driven HR operations.
 
@@ -25,18 +25,18 @@ This suite comprises the following dashboards, each addressing specific needs an
 *   **Improved Efficiency:** Automation and streamlined reporting processes reduce manual effort and free up valuable time for strategic initiatives.
 *   **Cost Reduction:** By optimizing resource allocation, preventing waste, and identifying cost-saving opportunities, the dashboards contribute to significant financial savings.
 *   **Enhanced Accountability:** Clear visibility into performance metrics and resource utilization promotes accountability and encourages continuous improvement.
-*   **Nway ERP Data Integration:** Seamless data flow from the Nway ERP system ensures data accuracy and consistency across all dashboards.
+* 
 
 ## Tech Stack
 
 All dashboards within this suite are built upon a common tech stack to ensure maintainability, scalability, and ease of integration. The core technologies include:
 
-*   **Power BI:** For data visualization and interactive dashboard creation.
-*   **Excel:** For data manipulation and analysis.
-*   **Nway ERP Data Integration:** For seamless data extraction and loading from the ERP system.
-*   **Python:** For data transformation, automation, and advanced analytics.
-*   **Jenkins:** For continuous integration and deployment.
-*   **ETL (Extract Transform Load):** *Used in the Plant & Machinery Dashboard and can apply to others*
+*   **Power BI:** 
+*   **Excel:** .
+*   **Nway ERP:** 
+*   **Python:** 
+*   **Jenkins:** 
+*   **ETL (Extract Transform Load)**
 
 ## Getting Started
 
@@ -45,11 +45,6 @@ To explore the dashboards in detail, navigate to the individual dashboard folder
 ## Contributing
 
 We welcome contributions to improve and expand this data analytics dashboard suite. If you have suggestions for new dashboards, enhancements to existing ones, or bug fixes, please submit a pull request with a detailed description of your changes.
-
-
-
-
-
 
 
 **Note:** For data privacy reasons, all company names and sensitive information in these Power BI dashboard screenshots have been anonymized or encrypted. The company name is represented as "ABC Group" solely for example purposes.
