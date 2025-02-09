@@ -2,13 +2,13 @@
 
 ## 📌 Purpose
 
-To empower stakeholders with a comprehensive, data-driven decision-making framework, I have designed and implemented multiple Power BI dashboards across key departments. These dashboards provide a bird’s-eye view of critical KPIs, ensuring transparency, accountability, and efficiency across the organization.
+To empower stakeholders with a comprehensive, bird’s-eye view of critical KPIs, ensuring transparency, accountability, and efficiency across the organization. I have designed and implemented multiple Power BI dashboards across key departments.
 
-🎯 The goal? To enable decision-makers to act with facts – eliminating guesswork and ensuring every action is backed by real-time data.
+🎯 The goal? To enable decision-makers to **act with facts** – eliminating guesswork and ensuring every action is backed by data-driven decisions.
 
 ----------------
 
-##🗺️ Overview
+##🗺🌍 Overview
 
 This repository contains a suite of interconnected data analytics dashboards designed to provide real-time insights and drive data-driven decision-making across various departments and operational areas within Nway Projects. These dashboards leverage data from the Nway ERP system and other sources to optimize processes, improve efficiency, reduce costs, and enhance overall performance.
 
