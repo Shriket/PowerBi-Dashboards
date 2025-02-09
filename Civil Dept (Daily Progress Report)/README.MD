@@ -4,18 +4,12 @@
 The **DPR Dashboard** provides real-time insights into the progress of multiple construction projects across all sites. It enables stakeholders to **track daily work completion, monitor financial expenditures, and compare planned vs. actual progress**. This dashboard is instrumental in **preventing overbilling, ensuring accountability, and optimizing project timelines** for maximum efficiency.  
 
 ## 🧗‍♂️ **Key Obstacles Faced** 
-- Inconsistent Entries: DPRs not logged daily.
-- Incomplete Data: Data entry often missing.
-- Lack of Detail: Entries lacked comprehensive information.
-
-## Obstacles
-
 - **Inconsistent Entries:** DPRs not logged daily.
     *   *Mitigation:* Resolved through cross-functional team meetings (HODs, department staff, ERP consultant, data entry operators).
 - **Incomplete Data:** Data entry often missing.
     *   *Mitigation:* Addressed via cross-functional meetings. Added required field validation and user training.
-- **Lack of Detail:** Entries lacked comprehensive information. Implemented hod's daily approval for saving dpr into erp.
-    *   *Mitigation:* Resolved through team meetings. Revised DPR form with specific fields and clear guidelines.
+- **Lack of Detail:** Entries lacked comprehensive information. 
+    *   *Mitigation:* Resolved through team meetings. Revised DPR form with specific fields and clear guidelines.Implemented hod's daily approval for saving dpr into erp.
 
 📝*Simultaneously reporting findings to the key stakeholders.*
 
