@@ -3,6 +3,23 @@
 ## 🚀 Overview  
 The **Purchase Department Analytics Dashboard** provides a **comprehensive view of the entire procurement lifecycle**, helping stakeholders track to optimize purchase activities. **Divided into two key sections – Indent & Purchase Order (PO)** – the dashboard enables real-time monitoring, **reducing manual effort by 90%, cutting purchase cycle time by 15%, and minimizing stock discrepancies by 21%**.   
 
+---------------------------------------------------------------------------------------------------------
+
+## 🧗‍♂️ **Key Obstacles Faced** 
+
+*   **Indent Data Mismatch:** Data discrepancies existed between the indent dashboard and the erp standard indent reports, raising concerns about data accuracy and reliability.
+    *   *Mitigation:* Initiated a reconciliation process to identify and correct the data discrepancies between the dashboard and source reports with erp team.
+
+*   **ERP Calculation Logic Deficiency:** The ERP system lacked transparency in its calculation logic for the procurement dashboard. Specifically, the dashboard provided counts based on indents, but did not adequately account for variations in items sanction statuses within those indents. [3]
+    *   *Mitigation:* Collaborated with the ERP team to understand and document the calculation logic. Recommended modifications to incorporate item sanction statuses into the dashboard metrics.
+
+- **Unwanted Item Grouping:** Items were grouped in ways that did not reflect business logic or were inconsistent with established categories. This made it difficult to analyze data trends and identify top-stock level products.
+    *   *Mitigation:* Revised the item grouping logic based on business requirements and created new, more appropriate categories. Updated the dashboard to reflect the corrected item groupings.
+
+
+## 🗣️📝 Reporting & Communication 
+- Findings were simultaneously reported to key stakeholders throughout the resolution process.
+
 ---
 
 ## 🎯 **Key Features & Insights**  
