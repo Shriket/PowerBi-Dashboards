@@ -11,7 +11,8 @@ The **DPR Dashboard** provides real-time insights into the progress of multiple 
 - **Lack of Detail:** Entries lacked comprehensive information. 
     *   *Mitigation:* Resolved through team meetings. Revised DPR form with specific fields and clear guidelines.Implemented hod's daily approval for saving dpr into erp.
 
-📝*Simultaneously reporting findings to the key stakeholders.*
+### 🗣️ Reporting & Transparency:
+- Findings were simultaneously reported to key stakeholders throughout the resolution process.
 
 ## 🎯 **Key Features & Insights**  
 
