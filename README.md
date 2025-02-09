@@ -6,9 +6,13 @@ To empower stakeholders with a comprehensive, data-driven decision-making framew
 
 🎯 The goal? To enable decision-makers to act with facts – eliminating guesswork and ensuring every action is backed by real-time data.
 
-## Overview
+----------------
+
+##🗺️ Overview
 
 This repository contains a suite of interconnected data analytics dashboards designed to provide real-time insights and drive data-driven decision-making across various departments and operational areas within Nway Projects. These dashboards leverage data from the Nway ERP system and other sources to optimize processes, improve efficiency, reduce costs, and enhance overall performance.
+
+----------------
 
 ## Dashboards Included
 
@@ -25,6 +29,8 @@ This suite comprises the following dashboards, each addressing specific needs an
 
 5️⃣  **🛒[Purchase Department Analytics Dashboard](https://github.com/Shriket/PowerBi-Dashboards/tree/main/Procurement/Purchase%20Dept)):** Provides a comprehensive view of the entire procurement lifecycle, from indent to purchase order. It enables real-time monitoring, faster approvals, cost savings, and better vendor management.
 
+----------------
+
 ## ✅🎯Key Benefits Across All Dashboards
 
 *   **Real-Time Insights:** All dashboards provide up-to-date information, enabling proactive decision-making and timely interventions.
@@ -38,6 +44,7 @@ This suite comprises the following dashboards, each addressing specific needs an
 ## 🛠 **Tech Stack**  
 
 All dashboards within this suite are built upon a common tech stack to ensure maintainability, scalability, and ease of integration. The core technologies include:
+
 🔹 **Power BI**  
 🔹 **Excel**  
 🔹 **Nway ERP Data Integration**  
@@ -47,15 +54,15 @@ All dashboards within this suite are built upon a common tech stack to ensure ma
 
 ---------------------------------------------------------------------------------------------------------
 
-## Getting Started
+## 🚀Getting Started
 
 To explore the dashboards in detail, navigate to the individual dashboard folders within this repository. Each folder contains a `README.md` file with a comprehensive overview of the dashboard's obstacles faced, solution, features, benefits, and implementation details.
 
-## Contributing
+##🤝 Contributing
 
 We welcome contributions to improve and expand this data analytics dashboard suite. If you have suggestions for new dashboards, enhancements to existing ones, or bug fixes, please submit a pull request with a detailed description of your changes.
 
-## 📌 **Note**  For data privacy reasons, all company names and sensitive information in these Power BI dashboard screenshots have been anonymized or encrypted. The company name is represented as "ABC Group" solely for example purposes.
+**📌 Note**  For data privacy reasons, all company names and sensitive information in these Power BI dashboard screenshots have been anonymized or encrypted. The company name is represented as "ABC Group" solely for example purposes.
 
 
 
