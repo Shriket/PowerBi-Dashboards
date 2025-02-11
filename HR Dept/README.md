@@ -1,12 +1,12 @@
 # 💼**HR Workforce Analytics Dashboard**
 
-![Demo GIF](https://github.com/Shriket/PowerBi-Dashboards/blob/main/HR%20Dept/Screenshot%20(201).png)
-![Demo GIF](https://github.com/Shriket/PowerBi-Dashboards/blob/main/HR%20Dept/Screenshot%20(203).png)
-
 ## 🚀 Overview  
 This **HR Workforce Analytics Dashboard** empowers key stakeholders with real-time insights into employee distribution, staffing levels, and salary planning across 145+ sites. Designed to optimize workforce planning and enhance operational efficiency, it eliminates manual tracking inefficiencies and enables **data-driven HR operations**.  
 
 ---------------------------------------------------------------------------------------------------------
+![Demo GIF](https://github.com/Shriket/PowerBi-Dashboards/blob/main/HR%20Dept/Screenshot%20(201).png)
+![Demo GIF](https://github.com/Shriket/PowerBi-Dashboards/blob/main/HR%20Dept/Screenshot%20(203).png)
+----------
 
 ## 🧗‍♂️ **Key Obstacles Faced** 
 *   **Inconsistent Resignation Reasons:** Proper and consistent entries for resignation reasons were lacking. This hindered accurate analysis of employee turnover and identification of key drivers for attrition.
