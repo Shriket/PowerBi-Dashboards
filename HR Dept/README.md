@@ -6,7 +6,7 @@ This **HR Workforce Analytics Dashboard** empowers key stakeholders with real-ti
 ---------------------------------------------------------------------------------------------------------
 ![Demo GIF](https://github.com/Shriket/PowerBi-Dashboards/blob/main/HR%20Dept/Screenshot%20(201).png)
 ![Demo GIF](https://github.com/Shriket/PowerBi-Dashboards/blob/main/HR%20Dept/Screenshot%20(203).png)
-----------
+---------------------------------------------------------------------------------------------------------
 
 ## 🧗‍♂️ **Key Obstacles Faced** 
 *   **Inconsistent Resignation Reasons:** Proper and consistent entries for resignation reasons were lacking. This hindered accurate analysis of employee turnover and identification of key drivers for attrition.
