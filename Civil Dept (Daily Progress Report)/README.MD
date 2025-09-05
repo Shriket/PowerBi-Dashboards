@@ -4,6 +4,8 @@
 The **DPR Dashboard** provides real-time insights into the progress of multiple construction projects across all sites. It enables stakeholders to **track daily work completion, monitor financial expenditures, and compare planned vs. actual progress**. This dashboard is instrumental in **preventing overbilling, ensuring accountability, and optimizing project timelines** for maximum efficiency.  
 
 ---------------------------------------------------------------------------------------------------------
+![Demo GIF](https://github.com/Shriket/PowerBi-Dashboards/blob/main/Civil%20Dept%20(Daily%20Progress%20Report)/DPR%20.png)
+---------------------------------------------------------------------------------------------------------
 
 ## 🧗‍♂️ **Key Obstacles Faced** 
 - **Inconsistent Entries:** DPRs not logged daily.
