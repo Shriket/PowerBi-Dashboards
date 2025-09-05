@@ -1,7 +1,7 @@
 # 💼**HR Workforce Analytics Dashboard**
 
 ## 🚀 Overview  
-This **HR Workforce Analytics Dashboard** empowers key stakeholders with real-time insights into employee distribution, staffing levels, and salary planning across 145+ sites. Designed to optimize workforce planning and enhance operational efficiency, it eliminates manual tracking inefficiencies and enables **data-driven HR operations**.  
+This **HR Workforce Analytics Dashboard** empowers key stakeholders with real-time insights into employee distribution, staffing levels, and salary planning across all sites. Designed to optimize workforce planning and enhance operational efficiency, it eliminates manual tracking inefficiencies and enables **data-driven HR operations**.  
 
 ---------------------------------------------------------------------------------------------------------
 ![Demo GIF](https://github.com/Shriket/PowerBi-Dashboards/blob/main/HR%20Dept/Screenshot%20(201).png)
