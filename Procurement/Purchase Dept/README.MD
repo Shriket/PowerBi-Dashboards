@@ -4,8 +4,8 @@
 The **Purchase Department Analytics Dashboard** provides a **comprehensive view of the entire procurement lifecycle**, helping stakeholders track to optimize purchase activities. **Divided into two key sections – Indent & Purchase Order (PO)** – the dashboard enables real-time monitoring, **reducing manual effort by 90%, cutting purchase cycle time by 15%, and minimizing stock discrepancies by 21%**.   
 
 ---------------------------------------------------------------------------------------------------------
-![Demo GIF](https://github.com/Shriket/PowerBi-Dashboards/blob/main/Procurement/Purchase%20Dept/Indent.png)
 ![Demo GIF](https://github.com/Shriket/PowerBi-Dashboards/blob/main/Procurement/Purchase%20Dept/Purchase%20Order%20(PO).png)
+![Demo GIF](https://github.com/Shriket/PowerBi-Dashboards/blob/main/Procurement/Purchase%20Dept/Indent.png)
 ---------------------------------------------------------------------------------------------------------
 
 
