@@ -4,6 +4,9 @@
 This **Store & Inventory Management Dashboard** provides real-time insights into stock availability, material movements, and financial impact across multiple company sites. It eliminates manual reporting inefficiencies and empowers **data-driven decision-making** for procurement, transfers, and resource optimization. 
 
 ---------------------------------------------------------------------------------------------------------
+![Demo GIF](https://github.com/Shriket/PowerBi-Dashboards/blob/main/Inventory/Store%20Dept/Screenshot%20(203).png)
+---------------------------------------------------------------------------------------------------------
+
 
 ## 🧗‍♂️ **Key Obstacles Faced** 
 
